@@ -8,7 +8,9 @@ Goals:
 
 Getting sequences:
 
-These 10 proteins from TRYPSIN family are given as training and test sequences, respectively: Train PDB IDs: 1H4W, 1AVW, 1BZX, 1V2O, 2RA3, 3I29, 4WWY, 1ANE
+These 10 proteins from TRYPSIN family are given as training and test sequences, respectively: 
+
+Train PDB IDs: 1H4W, 1AVW, 1BZX, 1V2O, 2RA3, 3I29, 4WWY, 1ANE
 
 Test PDB IDs: 1OS8, 1PQA
 
