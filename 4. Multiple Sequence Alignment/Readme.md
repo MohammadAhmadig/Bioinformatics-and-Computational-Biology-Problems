@@ -18,10 +18,10 @@ Obtain these sequences in FASTA format and use them in the next parts.
 
 **Part A:**
 
-I. In order to get first goal, you are supposed to use Matlab toolbox to align multiple sequences. (you should study the document of Matlab toolbox completely and set the parameters properly)
+I. In order to get first goal, we are supposed to use Matlab toolbox to align multiple sequences.
 
 II. Visualize results.
 
 **Part B:**
 
-For the second goal you are asked to implement your own code to build HMM for multiple alignment, according to part A result. Then use it to align the test sequences.
+For the second goal we implement own code to build HMM for multiple alignment, according to part A result. Then use it to align the test sequences.
