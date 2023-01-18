@@ -1,6 +1,6 @@
 # Promoter prediction
 
-Promoter predictionis an important task in genome annotation projects, and during the past years many new promoter prediction programs (PPPs) have been emerged. PPPs aim to identify promoter regions in a genome using computational methods. Promoter prediction is a supervised learning problem which contains three main steps to extract features:
+Promoter prediction is an important task in genome annotation projects, and during the past years many new promoter prediction programs (PPPs) have been emerged. PPPs aim to identify promoter regions in a genome using computational methods. Promoter prediction is a supervised learning problem which contains three main steps to extract features:
 
 1. CpG islands
 2. Structural features
