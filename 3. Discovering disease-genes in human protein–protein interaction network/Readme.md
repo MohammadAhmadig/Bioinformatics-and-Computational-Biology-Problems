@@ -1,6 +1,6 @@
 # Discovering disease-genes in human protein–protein interaction network 
 
-Your goals in this assignment are to: 
+Our goals here are: 
 1. Understanding importance of protein–protein interaction network in human genome. 
 2. Implement MATALB code to identify disease-genes in human genome. 
 
@@ -16,7 +16,7 @@ Human protein interaction data (PPI) is downloaded from the Human Protein Refere
 •	PositiveGeneName.txt includes disease gene symbols 
 
 To discover disease-genes in human protein–protein interaction network do the following steps: 
-Your Tasks: 
+Our Tasks: 
 
 1- The positive set in ‘PositiveGeneName.txt’ consists of all confirmed disease genes, while the rest of genes in ‘HUMAN_PPI_AdjacentList_gene.txt’ set are considered as negative genes. 
 
@@ -28,7 +28,7 @@ Your Tasks:
 
 5- Use proper classification algorithm to classify positive and negative genes.
 
-6- Report precision, Recall and F-measure as a result.
+6- Evaluate precision, Recall and F-measure.
 
-7- In the complete network, how many direct neighbors all genes have on average?
+7- In the complete network, calculating direct neighbors all genes have on average.
 
